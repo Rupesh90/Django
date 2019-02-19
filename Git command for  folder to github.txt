@@ -1,0 +1,24 @@
+where we want to  start our git commands(our particuler folder)
+
+start with this :
+
+git init 
+
+$ git remote add origin "https://github.com/Rupesh90/mydjangocode.git"
+
+$ git pull origin master
+
+$ git status
+
+
+i am created -one py file
+convert.py
+$ git add convert.py
+
+$git commit -m "new changes"
+
+$git push origin master 
+
+ --using this command from folder (E:\Demo of git)file 
+all Files 
+will add on github 
