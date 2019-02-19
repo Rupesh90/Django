@@ -22,3 +22,23 @@ $git push origin master
  --using this command from folder (E:\Demo of git)file 
 all Files 
 will add on github 
+
+
+
+IMP:
+if we add new folder into the E:\Demo 
+ i added Gitdat -which has one py file 
+so the command is :
+
+
+1)git add .
+
+--git add and use space and . (dot)
+this is for get all the files from Demo of git 
+
+2)git commit -m "Added one new folder"
+
+3)git push origin master
+
+  go and check the github login
+ we get all the files
